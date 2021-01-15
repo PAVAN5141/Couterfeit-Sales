@@ -1,0 +1,2 @@
+# Couterfeit-Sales
+Counterfeit is an Pharmaceutical company, It was manufactured illegal medicines, due to which WHO has given order of banning the  Counterfeit Medicines,  for this FBI has a task to find the locations where the Counterfeit sales are happening in huge range so FBI could collect all the medicines from those areas, for that we were given data set with the help of that we need to predict in which areas sales are running in wide range.
